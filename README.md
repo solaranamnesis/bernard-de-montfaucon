@@ -1,2 +1,10 @@
-# bernard-de-montfaucon
+# Bernard de Montfaucon.
+
 Public Domain Works of Bernard de Montfaucon (1655-1741).
+
+## L'Antiquité Expliquée, et Représentée en Figures. Tome Premier.
+
+French - Plain Text  
+French - PDF | Biolinum | Atkinson | Cursive | Auriocus | Kerkis | Artemisia  
+English - Plain Text  
+English - PDF  
