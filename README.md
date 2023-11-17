@@ -8,3 +8,10 @@ French - Plain Text
 French - PDF | Biolinum | Atkinson | Cursive | Auriocus | Kerkis | Artemisia  
 English - Plain Text  
 English - PDF  
+
+## L'Antiquité Expliquée, et Représentée en Figures. Tome Second.
+
+French - Plain Text  
+French - PDF | Biolinum | Atkinson | Cursive | Auriocus | Kerkis | Artemisia  
+English - Plain Text  
+English - PDF  
