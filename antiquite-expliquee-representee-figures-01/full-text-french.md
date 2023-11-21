@@ -153,3 +153,15 @@ ejusq. M. religionis ad Fanor
 NAVIUS JANVARIVS
 
 ...
+
+# Supplément au Livre de l'Antiquité Expliquée, et Représentée en Figures. Tome Premier.
+
+# Preface.
+
+...
+
+# Livre Premier.
+
+## Chapitre Premier.
+
+...
